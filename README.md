@@ -7,7 +7,6 @@ Asegúrate de tener instalados `git`, `grep`, `sed`, `curl` y un reproductor com
 
 ### 2. Comandos de instalación:
 ```bash
-git clone "[https://github.com/pystardust/ani-cli.git](https://github.com/pystardust/ani-cli.git)"
+git clone "https://github.com/pystardust/ani-cli.git"
 sudo cp ani-cli/ani-cli /usr/local/bin
 rm -rf ani-cli
-ani-cli
